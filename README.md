@@ -2,13 +2,13 @@
 
 **Case ID:** CIP-B104-CS1-C11_26_DFIT_17305
 **Examiner:** NASIRU LAWAL
-**Evidence Source:** [NIST CFReDS](https://cfreds-archive.nist.gov/) — "Hacking Case" (SCHARDT.001–008)
+**Evidence Source:** [NIST CFReDS](https://cfreds-archive.nist.gov/) "Hacking Case" (SCHARDT.001–008)
 
 ## Overview
 
 This repository contains the complete forensic examination of a disk image recovered from a Dell CPi notebook, associated with a suspect operating under the online alias **"Mr. Evil"** and the registered name **Greg Schardt**. The computer is alleged to have been used to identify wireless access points, intercept internet traffic, and capture credentials from nearby users.
 
-The investigation follows a structured methodology covering evidence integrity, file-system and Registry analysis, suspect attribution, hacking-tool inventory, captured-traffic reconstruction, deleted-file recovery, and malware scanning — concluding with an integrated timeline and a calibrated forensic opinion.
+The investigation follows a structured methodology covering evidence integrity, file-system and Registry analysis, suspect attribution, hacking-tool inventory, captured-traffic reconstruction, deleted-file recovery, and malware scanning concluding with an integrated timeline and a calibrated forensic opinion.
 
 ## Repository Structure
 
