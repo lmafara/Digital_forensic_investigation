@@ -38,10 +38,10 @@ The investigation follows a structured methodology covering evidence integrity, 
 ## Key Findings (Summary)
 
 - System: Windows XP, registered to **Greg Schardt**, computer name `N-1A9ODN6ZXK4LQ`, workgroup **EVIL**
-- Primary account **"Mr. Evil"** (RID 1003) — 15 logins, last active 2004-08-27
+- Primary account **"Mr. Evil"** (RID 1003) 15 logins, last active 2004-08-27
 - Multiple independent artefacts (Look@LAN config, browser cache, webmail, IRC/NNTP identity) link **Greg Schardt ↔ Mr. Evil**
 - Six+ dual-use network/security tools installed: Ethereal, WinPcap, Network Stumbler, Cain & Abel, Anonymizer Bar, 123 Write All Stored Passwords, CuteFTP
-- A recovered packet capture (`interception`) contains genuine HTTP traffic from a Windows CE/Pocket PC device to Microsoft Passport login pages — direct evidence of interception in use, not just installed
+- A recovered packet capture (`interception`) contains genuine HTTP traffic from a Windows CE/Pocket PC device to Microsoft Passport login pages — direct evidence   of interception in use, not just installed
 - Several hacking-tool installers were deleted to the Recycle Bin within minutes of installation, suggesting deliberate cleanup
 - ClamAV scan flagged 22 files; 21 are category hits on pen-testing tools, 1 (`ahui.exe`) is a genuine `Win.Virus.Virut` infection
 
@@ -69,4 +69,4 @@ This is an academic digital forensics exercise using a publicly available NIST C
 ## Author
 
 **NASIRU LAWAL**
-Case ID: CIP-B104-CS1-C11/26/DFIT/17305
+**Case ID:** CIP-B104-CS1-C11/26/DFIT/17305
