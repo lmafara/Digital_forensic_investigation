@@ -1,4 +1,4 @@
-# Digital Forensic Investigation — NIST/CFReDS Hacking Case
+# Digital Forensic Investigation NIST/CFReDS Hacking Case
 
 **Case ID:** CIP-B104-CS1-C11_26_DFIT_17305
 **Examiner:** NASIRU LAWAL
